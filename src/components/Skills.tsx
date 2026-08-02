@@ -22,6 +22,7 @@ const skills: Skill[] = [
   { name: "FireFlink", level: 4, category: "AI Testing", tools: ["Codeless", "AI-driven"] },
   { name: "Sauce Labs", level: 3, category: "Cross-Browser", tools: ["Cloud", "Parallel"] },
   { name: "Git & GitHub", level: 4, category: "Version Control", tools: ["Branching", "PRs"] },
+  { name: "Scrum", level: 4, category: "Methodology", tools: ["Sprint Planning", "Retrospective", "Bug Triage"] },
 ];
 
 export function Skills() {
