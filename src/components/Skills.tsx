@@ -13,7 +13,7 @@ const skills: Skill[] = [
   { name: "Selenium", level: 5, category: "Automation", tools: ["POM", "TestNG", "Grid"] },
   { name: "Java", level: 5, category: "Language", tools: ["JDK 21", "OOP", "Collections"] },
   { name: "Manual Testing", level: 5, category: "QA", tools: ["Functional", "Regression", "Smoke"] },
-  { name: "API Testing", level: 4, category: "Backend", tools: ["Rest Assured", "Postman", "SOAP UI"] },
+  { name: "API Testing", level: 4, category: "Middleware Testing", tools: ["Rest Assured", "Postman", "SOAP UI"] },
   { name: "SQL", level: 4, category: "Data", tools: ["Joins", "Subquery", "RDBMS"] },
   { name: "TestNG", level: 4, category: "Framework", tools: ["Annotations", "DataProvider"] },
   { name: "Jenkins", level: 3, category: "CI/CD", tools: ["Pipelines", "Maven", "GitHub"] },
