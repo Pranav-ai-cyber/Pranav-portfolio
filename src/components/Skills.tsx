@@ -15,7 +15,6 @@ const skills: Skill[] = [
   { name: "Manual Testing", level: 5, category: "QA", tools: ["Functional", "Regression", "Smoke"] },
   { name: "API Testing", level: 4, category: "Backend", tools: ["Rest Assured", "Postman", "SOAP UI"] },
   { name: "SQL", level: 4, category: "Data", tools: ["Joins", "Subquery", "RDBMS"] },
-  { name: "JMeter", level: 4, category: "Performance", tools: ["Load", "Stress", "Reports"] },
   { name: "TestNG", level: 4, category: "Framework", tools: ["Annotations", "DataProvider"] },
   { name: "Jenkins", level: 3, category: "CI/CD", tools: ["Pipelines", "Maven", "GitHub"] },
   { name: "Jira", level: 4, category: "Tracking", tools: ["Bug Triage", "Zephyr Scale"] },
