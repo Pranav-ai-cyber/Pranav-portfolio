@@ -3,7 +3,7 @@ import { SectionHeading } from "./SectionHeading";
 
 const timeline = [
   {
-    when: "2025",
+    when: "2026",
     title: "AI Automation Intern",
     org: "QSpiders — FireFlink",
     detail:
@@ -11,7 +11,7 @@ const timeline = [
     tags: ["FireFlink", "AI Testing", "CI"],
   },
   {
-    when: "2024–25",
+    when: "2026",
     title: "Software Testing Full Stack + SDET",
     org: "QSpiders — Certified Program",
     detail:
@@ -19,7 +19,7 @@ const timeline = [
     tags: ["Selenium", "Java", "Rest Assured", "JMeter"],
   },
   {
-    when: "2024",
+    when: "2026",
     title: "Test Design Assignments",
     org: "Flipkart · BookMyShow · Myntra · ShoppersStack",
     detail:

@@ -4,12 +4,12 @@ import { SectionHeading } from "./SectionHeading";
 import { BadgeCheck } from "lucide-react";
 
 const certs = [
-  { title: "Software Testing Full Stack", issuer: "QSpiders", date: "2025", cred: "QS-STFS-2025" },
-  { title: "SDET with DevOps", issuer: "QSpiders", date: "2025", cred: "QS-SDET-2025" },
-  { title: "AI Automation — FireFlink", issuer: "QSpiders", date: "2025", cred: "QS-AI-FF" },
-  { title: "Selenium with Java", issuer: "Self-Certified Project", date: "2024", cred: "SEL-J-01" },
-  { title: "API Testing with Rest Assured", issuer: "Self-Certified Project", date: "2024", cred: "API-RA-01" },
-  { title: "SQL for Testers", issuer: "Coursework", date: "2024", cred: "SQL-T-01" },
+  { title: "Software Testing Full Stack", issuer: "QSpiders", date: "2026", cred: "QS-STFS-2025" },
+  { title: "SDET with DevOps", issuer: "QSpiders", date: "2026", cred: "QS-SDET-2025" },
+  { title: "AI Automation — FireFlink", issuer: "QSpiders", date: "2026", cred: "QS-AI-FF" },
+  { title: "Selenium with Java", issuer: "Self-Certified Project", date: "2026", cred: "SEL-J-01" },
+  { title: "API Testing with Rest Assured", issuer: "Self-Certified Project", date: "2026", cred: "API-RA-01" },
+  { title: "SQL for Testers", issuer: "Coursework", date: "2026", cred: "SQL-T-01" },
 ];
 
 export function Certificates() {
