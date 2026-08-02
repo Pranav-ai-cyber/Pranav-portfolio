@@ -3,12 +3,12 @@ import { SectionHeading } from "./SectionHeading";
 
 const timeline = [
   {
-    when: "2026",
+    when: "Feb – May 2026",
     title: "AI Automation Intern",
-    org: "QSpiders — FireFlink",
+    org: "QSpiders — Rajajinagar, Bengaluru",
     detail:
-      "Built AI-driven test cases with FireFlink, learned codeless automation patterns, and integrated runs into a CI-style pipeline.",
-    tags: ["FireFlink", "AI Testing", "CI"],
+      "Completed a 3-month internship on Software Testing with Automation using AI at QSpiders. Worked on real-world projects using FireFlink's codeless AI-driven automation, built and executed test cases, and integrated automation runs into a CI-style pipeline under the guidance of Mr. Pradeep.",
+    tags: ["FireFlink", "AI Testing", "Automation", "CI", "QSpiders"],
   },
   {
     when: "2026",
