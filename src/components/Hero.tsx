@@ -25,7 +25,7 @@ export function Hero() {
           >
             Hi, I'm <span className="text-gradient">Pranav</span>
             <span className="block text-3xl font-medium text-muted-foreground sm:text-4xl mt-3">
-              SDET & Quality Engineer
+              SDET & Quality Assurance Engineer
             </span>
           </motion.h1>
 

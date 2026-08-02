@@ -10,7 +10,7 @@ const Linkedin = LinkedinIcon as ComponentType<SVGProps<SVGSVGElement>>;
 import { SectionHeading } from "./SectionHeading";
 
 const socials = [
-  { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/suryawanshi-pranav" },
+  { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/pranavgsuryawanshi" },
   { icon: Mail, label: "Email", href: "mailto:suryawanshipranav38@gmail.com" },
   { icon: FileText, label: "Resume", href: "/SDET-Suryawanshi-Resume.pdf" },
 ];

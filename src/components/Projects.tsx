@@ -65,9 +65,9 @@ const projects: Project[] = [
     accent: "oklch(0.66 0.04 120 / 0.3)",
   },
   {
-    title: "Remote Operated Voice Guider",
+    title: "Remote Operated Electric Voice Guider for Physically Disabled & Bedridden Patients",
     tag: "Academic",
-    stack: ["Embedded", "Voice UI", "Assistive Tech"],
+    stack: ["Embedded", "IoT", "Voice UI", "Assistive Tech"],
     problem: "Bedridden patients need a hands-free way to signal caregivers.",
     solution:
       "Designed a voice-guided remote helper with escalating alerts and simple failure modes.",

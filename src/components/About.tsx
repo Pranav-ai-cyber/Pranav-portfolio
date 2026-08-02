@@ -5,7 +5,7 @@ import profileImg from "@/assets/pranav-profile.jpeg";
 
 
 const items = [
-  { icon: GraduationCap, title: "Computer Science Student", detail: "BE, LAEC Bidar — 2026" },
+  { icon: GraduationCap, title: "Electronics & Communication Engineering", detail: "BE, LAEC Bidar — 2026" },
   { icon: Award, title: "CGPA", detail: "7.94 / 10" },
   { icon: Briefcase, title: "Internship", detail: "AI + FireFlink @ QSpiders" },
   { icon: Wrench, title: "Core Skills", detail: "Selenium · Java · API · SQL · JMeter" },
@@ -20,7 +20,7 @@ export function About() {
         <SectionHeading
           eyebrow="About"
           title="Quality is a craft, not a checklist."
-          subtitle="I'm Pranav — a final-year Computer Science engineer specialising in software testing and SDET workflows. I care about the small details: readable test suites, deterministic runs, and dashboards that tell the truth."
+          subtitle="I'm Pranav — a final-year Electronics & Communication Engineering student specialising in software testing and SDET workflows. I care about the small details: readable test suites, deterministic runs, and dashboards that tell the truth."
         />
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-[auto_1fr] lg:items-start">
           <motion.div
@@ -33,13 +33,13 @@ export function About() {
             <div className="gradient-border-inner rounded-3xl" />
             <img
               src={profileImg}
-              alt="Pranav Suryawanshi — SDET & Quality Engineer"
+              alt="Pranav Suryawanshi — SDET & Quality Assurance Engineer"
               className="h-full w-full object-cover"
               loading="lazy"
             />
             <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-background/90 via-background/40 to-transparent p-4">
               <div className="font-display text-lg text-highlight">Pranav Suryawanshi</div>
-              <div className="text-xs uppercase tracking-wider text-muted-foreground">SDET · Quality Engineer</div>
+              <div className="text-xs uppercase tracking-wider text-muted-foreground">SDET · Quality Assurance Engineer</div>
             </div>
           </motion.div>
 
