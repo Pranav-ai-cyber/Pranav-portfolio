@@ -50,7 +50,7 @@ export function Hero() {
             <MagneticButton href="#projects" primary>
               View Projects <ArrowRight className="ml-1 h-4 w-4" />
             </MagneticButton>
-            <MagneticButton href="#contact">
+            <MagneticButton href="/SDET-Suryawanshi-Resume.pdf" download>
               <Download className="mr-1 h-4 w-4" /> Download Resume
             </MagneticButton>
           </motion.div>
@@ -79,10 +79,12 @@ function MagneticButton({
   children,
   href,
   primary,
+  download,
 }: {
   children: React.ReactNode;
   href: string;
   primary?: boolean;
+  download?: boolean;
 }) {
   const ref = useRef<HTMLAnchorElement>(null);
   useEffect(() => {
@@ -106,6 +108,7 @@ function MagneticButton({
     <a
       ref={ref}
       href={href}
+      download={download}
       data-magnetic
       className={
         primary
@@ -191,7 +194,7 @@ function Laptop3D() {
               <span className="h-2.5 w-2.5 rounded-full bg-[oklch(0.65_0.17_25)]" />
               <span className="h-2.5 w-2.5 rounded-full bg-[oklch(0.78_0.14_85)]" />
               <span className="h-2.5 w-2.5 rounded-full bg-[oklch(0.7_0.13_145)]" />
-              <span className="ml-3 text-[10px] text-muted-foreground">test-suite.java — VS Code</span>
+              <span className="ml-3 text-[10px] text-muted-foreground">test-suite.java — Eclipse IDE</span>
             </div>
             {/* Fake editor */}
             <div className="grid grid-cols-[40px_1fr] font-mono text-[11px] leading-5">

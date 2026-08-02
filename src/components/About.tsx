@@ -20,7 +20,7 @@ export function About() {
         <SectionHeading
           eyebrow="About"
           title="Quality is a craft, not a checklist."
-          subtitle="I'm Pranav — a final-year Electronics & Communication Engineering student specialising in software testing and SDET workflows. I care about the small details: readable test suites, deterministic runs, and dashboards that tell the truth."
+          subtitle="I'm Pranav — an Electronics & Communication Engineering student specialising in software testing and SDET workflows. I care about the small details: readable test suites, deterministic runs, and dashboards that tell the truth."
         />
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-[auto_1fr] lg:items-start">
           <motion.div
