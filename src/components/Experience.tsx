@@ -8,7 +8,7 @@ const timeline = [
     org: "QSpiders — Rajajinagar, Bengaluru",
     detail:
       "Completed a 3-month internship on Software Testing with Automation using AI at QSpiders. Worked on real-world projects using FireFlink's codeless AI-driven automation, built and executed test cases, and integrated automation runs into a CI-style pipeline under the guidance of Mr. Pradeep.",
-    tags: ["FireFlink", "AI Testing", "Automation", "CI"],
+    tags: ["FireFlink", "AI Testing", "Automation", "CI", "Manual Testing"],
   },
   {
     when: "2026",

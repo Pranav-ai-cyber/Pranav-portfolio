@@ -205,7 +205,6 @@ function Laptop3D() {
               </div>
               <div className="px-3 py-3 text-highlight/90">
                 <div><span className="text-[oklch(0.78_0.13_85)]">package test;</span></div>
-                <div><span className="text-[oklch(0.78_0.13_85)]">@Test</span></div>
                 <div><span className="text-[oklch(0.7_0.13_145)]">public void</span> <span className="text-primary">shouldAddItemToCart</span>() {"{"}</div>
                 <div className="pl-4">driver.get(<span className="text-secondary">"https://shoppersstack.com"</span>);</div>
                 <div className="pl-4">loginPage.login(user, pass);</div>
