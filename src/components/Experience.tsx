@@ -29,7 +29,7 @@ const timeline = [
   {
     when: "2022–26",
     title: "BE — Electronics & Communication Engineering",
-    org: "LAEC, Bidar · CGPA 7.94",
+    org: "LAEC, Bidar · CGPA 8.11",
     detail:
       "Coursework in OOP, DBMS, Networks, and Software Engineering — with an academic project on assistive voice-guided remotes.",
     tags: ["ECE", "Academic Project"],

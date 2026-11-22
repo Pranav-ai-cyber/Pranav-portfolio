@@ -6,7 +6,7 @@ import profileImg from "@/assets/pranav-profile.jpeg";
 
 const items = [
   { icon: GraduationCap, title: "Electronics & Communication Engineering", detail: "BE, LAEC Bidar — 2026" },
-  { icon: Award, title: "CGPA", detail: "7.94 / 10" },
+  { icon: Award, title: "CGPA", detail: "8.11 / 10" },
   { icon: Briefcase, title: "Internship", detail: "AI + FireFlink @ QSpiders" },
   { icon: Wrench, title: "Core Skills", detail: "Selenium · Java · API · SQL · JMeter" },
   { icon: Rocket, title: "Currently Learning", detail: "Playwright · CI/CD · Cloud Testing" },

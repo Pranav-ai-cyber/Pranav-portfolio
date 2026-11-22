@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { SectionHeading } from "./SectionHeading";
 
 const items = [
-  { degree: "BE — Electronics & Communication", school: "LAEC, Bidar", score: "CGPA 7.94", year: "2022 – 2026" },
+  { degree: "BE — Electronics & Communication", school: "LAEC, Bidar", score: "CGPA 8.11", year: "2022 – 2026" },
   { degree: "12th (HSC)", school: "DSCL, Latur", score: "64.67 %", year: "2020 – 2022" },
   { degree: "10th (SSC)", school: "KVL, Latur", score: "88.60 %", year: "2019 – 2020" },
 ];

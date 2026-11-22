@@ -63,7 +63,7 @@ export function Hero() {
           >
             <Stat value={800} suffix="+" label="Test Cases Authored" />
             <Stat value={6} suffix=" mo" label="Internship" />
-            <Stat value={7.94} label="CGPA" decimals={2} />
+            <Stat value={8.11} label="CGPA" decimals={2} />
           </motion.div>
         </div>
 
