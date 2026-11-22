@@ -56,7 +56,7 @@ export function Contact() {
         <SectionHeading
           eyebrow="Contact"
           title="Let's build reliable software together."
-          subtitle="I'm open to SDET / QA internships and full-time roles starting 2026. Drop a note — I reply within a day."
+          subtitle="I'm open to SDET / QA full-time roles starting 2026. Drop a note — I reply within a day."
         />
         <div className="grid grid-cols-1 gap-6 lg:grid-cols-5">
           <motion.form
